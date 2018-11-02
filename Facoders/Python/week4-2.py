@@ -9,5 +9,4 @@ while i<11:
     else:
         print("Try again ")
         number=int (input("Guess the number: "))
-
     i=i+1
